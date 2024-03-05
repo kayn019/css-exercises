@@ -1,0 +1,15 @@
+.bw,
+.yellow {
+    font-size: 28px;
+    font-family: Helvetica, Times New roman, sans-serif;
+}
+
+.bw {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+}
